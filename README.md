@@ -1,3 +1,3 @@
 # AWS-Code-Deploy
 
-This is a sample repository
+This is a sample repository created just now.
